@@ -15,7 +15,7 @@ This repository is our implementation of ADG.
 ## Datasets
 1. Download training data from 
    [Google Drive](https://drive.google.com/drive/folders/1cLNaXsr1Wmim4NDQJMWqUQCZpigca3jO?usp=sharing) 
-   or [百度网盘](链接：https://pan.baidu.com/s/13EsaOcUIgD8YypjgY92Ikw) (提取码：udm4).
+   or [百度网盘](https://pan.baidu.com/s/13EsaOcUIgD8YypjgY92Ikw) (提取码：udm4).
 2. Place the datasets inside the `data/` folder.
 
 
@@ -31,7 +31,7 @@ The checkpoint files will be saved into `models/` folder.
 ### Download Checkpoints
 1. Download checkpoint files from 
    [Google Drive](https://drive.google.com/drive/folders/1PaMf7vT9sWl-EByUGZOuXfDilN4zcM7w?usp=sharing) 
-   or [百度网盘](链接：https://pan.baidu.com/s/1mIWB5XGTA-qKgTIm3zLtdQ) (提取码：7xcr).
+   or [百度网盘](https://pan.baidu.com/s/1mIWB5XGTA-qKgTIm3zLtdQ) (提取码：7xcr).
 2. Place the checkpoint files inside the `models/` folder.
 
 
