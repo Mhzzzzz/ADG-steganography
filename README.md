@@ -1,10 +1,8 @@
 # ADG Steganography
 This repository is our implementation of ADG.
 
-**Provably Secure Generative Linguistic Steganography** (ACL 2021 *findings*)
-
-*Siyu Zhang, Zhongliang Yang, Jinshuai Yang, Yongfeng Huang*
-
+**Provably Secure Generative Linguistic Steganography** (ACL 2021 *findings*)  
+*Siyu Zhang, Zhongliang Yang, Jinshuai Yang, Yongfeng Huang*  
 [https://arxiv.org/abs/2106.02011](https://arxiv.org/abs/2106.02011)
 
 
