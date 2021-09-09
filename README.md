@@ -22,13 +22,13 @@ This repository is our implementation of ADG.
 ## Training Language Models
 You can either train from scratch or directly download checkpoints.
 
-Training from scratch
+### Training from scratch
 ```
 python run_lm.py
 ```
 The checkpoint files will be saved into `models/` folder.
 
-Download Checkpoints
+### Download Checkpoints
 1. Download checkpoint files from 
    [Google Drive](https://drive.google.com/drive/folders/1PaMf7vT9sWl-EByUGZOuXfDilN4zcM7w?usp=sharing) 
    or [百度网盘](https://pan.baidu.com/s/1JGv7XtW_zcs4n1TAga-HBQ) (提取码：du9p).
